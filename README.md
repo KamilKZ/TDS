@@ -17,6 +17,8 @@ Controls:
 
 Walls are very glitchy and somewhat OP, they're free and will stop enemies, in which case they have to destroy them to get through. This was the last feature added hence it's pretty bad.
 
-![Preview of tds][https://copy.com/KECEqgr4BDWf/2015-02-28_11-33-48.png]
+![Preview of tds](https://copy.com/KECEqgr4BDWf/2015-02-28_11-33-48.png)
 
-Sounds are glitchy and walls are awful. Made around October 2013. If you have any questions or problems feel free to leave an issue or contact me directly: kamil.zmich@gmail.com
+Sounds are glitchy and walls are awful. If errors about VC++ redist, needs VC++2012 or 2013.
+Made around October 2013.
+If you have any questions or problems feel free to leave an issue or contact me directly: kamil.zmich@gmail.com
